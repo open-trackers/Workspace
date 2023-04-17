@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../Daily-Calorie-Tracker-Plus-App/Daily Calorie Tracker Plus.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../Daily-Calorie-Tracker-Watch-App/Daily Calorie Tracker Watch.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../DcaltUI">
+   </FileRef>
+   <FileRef
+      location = "group:../DcaltLib">
+   </FileRef>
+   <FileRef
+      location = "group:../Gym-Routine-Tracker-Plus-App/Gym Routine Tracker Plus.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../Gym-Routine-Tracker-Watch-App/Gym Routine Tracker Watch.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../GroutUI">
+   </FileRef>
+   <FileRef
+      location = "group:../GroutLib">
+   </FileRef>
+   <FileRef
+      location = "group:../open-trackers.github.io">
+   </FileRef>
+   <FileRef
+      location = "group:../.github">
+   </FileRef>
+   <FileRef
+      location = "group:../Task-Routine-Tracker-Plus-App/Task Routine Tracker Plus.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../Task-Routine-Tracker-Watch-App/Task Routine Tracker Watch.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../TroutUI">
+   </FileRef>
+   <FileRef
+      location = "group:../TroutLib">
+   </FileRef>
+   <FileRef
+      location = "group:../TrackerUI">
+   </FileRef>
+   <FileRef
+      location = "group:../TrackerLib">
+   </FileRef>
+</Workspace>
