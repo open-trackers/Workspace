@@ -8,10 +8,10 @@ independently.
 # Setup
 
 Clone all the repositories (including `Workspace`) at the same level in
-your project directory.  It should then look like this:
+your project directory.  It should then look something like this:
 
 ```zsh
-$ ls
+$ ls -a
 
 .github
 Daily-Calorie-Tracker-Plus-App
