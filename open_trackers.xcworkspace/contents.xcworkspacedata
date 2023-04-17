@@ -49,4 +49,7 @@
    <FileRef
       location = "group:../TrackerLib">
    </FileRef>
+   <FileRef
+      location = "group:../Workspace">
+   </FileRef>
 </Workspace>
