@@ -12,7 +12,7 @@ independently.
 Clone all the repositories (including `Workspace`) at the same level in
 your project directory.  It should then look something like this:
 
-```zsh
+```bash
 $ ls -a
 
 .github
@@ -36,7 +36,7 @@ open-trackers.github.io
 
 Then you can open the workspace with: 
 
-```zsh
+```bash
 $ open Workspace/open_trackers.xcworkspace
 ```
 
