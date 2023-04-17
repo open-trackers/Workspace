@@ -1,5 +1,7 @@
 # Workspace
 
+<img src="https://github.com/open-trackers/Workspace/blob/main/Images/xcode.png" width="1147" height="734"/>
+
 Pre-fab workspace for `open-trackers` projects.
 
 This is _optional_. You can always set up your own workspace
