@@ -26,12 +26,6 @@
       location = "group:../GroutLib">
    </FileRef>
    <FileRef
-      location = "group:../open-trackers.github.io">
-   </FileRef>
-   <FileRef
-      location = "group:../.github">
-   </FileRef>
-   <FileRef
       location = "group:../Task-Routine-Tracker-Plus-App/Task Routine Tracker Plus.xcodeproj">
    </FileRef>
    <FileRef
@@ -51,5 +45,11 @@
    </FileRef>
    <FileRef
       location = "group:../Workspace">
+   </FileRef>
+   <FileRef
+      location = "group:../open-trackers.github.io">
+   </FileRef>
+   <FileRef
+      location = "group:../.github">
    </FileRef>
 </Workspace>
