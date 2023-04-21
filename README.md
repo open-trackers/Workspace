@@ -13,7 +13,7 @@ Clone all the repositories (including `Workspace`) at the same level in
 your project directory.  It should then look something like this:
 
 ```bash
-$ ls -a
+$ ls -a1
 
 .github
 Daily-Calorie-Tracker-Plus-App
