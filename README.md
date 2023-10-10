@@ -10,7 +10,35 @@ independently.
 # Setup
 
 Clone all the repositories (including `Workspace`) at the same level in
-your project directory.  It should then look something like this:
+your project directory.  A script can be handy
+
+```bash
+#!/bin/bash
+
+for x in \
+  Daily-Calorie-Tracker-Plus-App  \
+  Daily-Calorie-Tracker-Watch-App \
+  DcaltLib \
+  DcaltUI \
+  GroutLib \
+  GroutUI \
+  Gym-Routine-Tracker-Plus-App \
+  Gym-Routine-Tracker-Watch-App \
+  Task-Routine-Tracker-Plus-App \
+  Task-Routine-Tracker-Watch-App \
+  TrackerLib \
+  TrackerUI \
+  TroutLib \
+  TroutUI \
+  Workspace \
+  open-trackers.github.io \
+  .github
+do
+  git clone https://github.com/open-trackers/$x.git
+done
+```
+
+It should then look something like this:
 
 ```bash
 $ ls -a1
